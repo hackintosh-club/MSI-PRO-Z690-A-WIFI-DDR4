@@ -2,8 +2,6 @@
 
 ![image](Screenshot/MSIZ690.jpg)
 
-### [ENGLISH](https://github.com/hackintosh-club/MAG-B760M-MORTAR-OpenCore)
-
 [OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
 
 
