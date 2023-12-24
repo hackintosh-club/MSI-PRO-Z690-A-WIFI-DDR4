@@ -15,10 +15,11 @@
 ### 硬件
 
 - 芯片组: Z690
+- BIOS版本：E7D251MS.1F0 2023-11-03
 - 处理器: 英特尔14代 i7-14700K
 - 内   存:  金百达 32GB（16GB*2） DDR4 3200Mhz
 - 硬   盘:  致钛TiPlus 1TB MacOS
-- 核   显:  英特尔超核心显卡770 (仅能在 Windows中使用)
+- 核   显:  英特尔超核心显卡730 (仅能在 Windows中使用)
 - 显   卡:  华擎 Radeon RX6650XT
 - 声   卡:  瑞昱 ALC897
 - 有线网卡: 英特尔 L225-V
@@ -46,6 +47,8 @@ Search
 <img src="Screenshot/D.T.M.png" alt="image" style="zoom:50%;" />
 
 <img src="Screenshot/SecureBoot.png" alt="image" style="zoom:50%;" />
+
+<img src="Screenshot/D.T.M2.png" alt="image" style="zoom:50%;" />
 
 
 
