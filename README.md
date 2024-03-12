@@ -2,7 +2,7 @@
 
 ![image](Screenshot/MSIZ690.jpg)
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -58,6 +58,24 @@ Search
  - 如需使用没有小核心的CPU，必须取消勾选配置文件中Kernel--ProvideCurrentCpuinfo选项
 
 
+### 联系我们
+
+QQ Group: 23304408
+
+![image](Screenshot/QRCode.png)
+
+### 参考内容
+
+[1.黑苹果安装过程演示](https://hackintosh.club/d/10000060)
+
+[2.英特尔无线网卡WiFi驱动](https://hackintosh.club/d/10000015)
+
+[3.英特尔无线网卡蓝牙驱动](https://hackintosh.club/d/10000017)
+
+[4.我的B站黑苹果教程](https://space.bilibili.com/244390800/video)
+
+[6.黑果之家](https://hackintosh.club)
+
 ### 常用工具
 
 - [Hackintool](https://github.com/headkaze/Hackintool) 
@@ -65,10 +83,3 @@ Search
 - [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) AKA `OCC`.
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) Build your own MacOS image.
 - [ProperTree](https://github.com/corpnewt/ProperTree) Plist editor.
-
-
-### 联系我们
-
-QQ Group: 23304408
-
-![image](Screenshot/QRCode.png)
