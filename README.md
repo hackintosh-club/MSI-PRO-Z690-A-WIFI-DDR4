@@ -2,7 +2,7 @@
 
 ![image](Screenshot/MSIZ690.jpg)
 
-[OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.4](https://github.com/acidanthera/OpenCorePkg)
 
 
 ### macOS
@@ -10,6 +10,7 @@
 - Monterey
 - Ventura
 - Sonoma
+- Sequoia
 
 
 ### 硬件
